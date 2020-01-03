@@ -1,3 +1,3 @@
 # AWS Cloud Formation Learning
 
-## Introcuction
+## Introcuction to CloudFormation templates.
